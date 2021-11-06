@@ -1,0 +1,23 @@
+{
+  "name": "shake-nodejs-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaielMartinez/shake-nodejs-training.git"
+  },
+  "author": "Taiel Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaielMartinez/shake-nodejs-training/issues"
+  },
+  "homepage": "https://github.com/TaielMartinez/shake-nodejs-training#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1"
+  }
+}
